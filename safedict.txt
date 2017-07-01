@@ -1,5 +1,7 @@
 a
+ardvark
 aardvark
+aaardvark
 abaci
 aback
 abacus
@@ -25,6 +27,7 @@ abbreviate
 abbreviated
 abbreviation
 abdicate
+abassdicate
 abdication
 abdomen
 abdominal
@@ -6198,9 +6201,6 @@ cliquey
 cliquish
 cliquishly
 cliquishness
-clitoral
-clitorides
-clitoris
 cloaca
 cloacae
 cloak
@@ -7496,7 +7496,6 @@ cool-headed
 coolie
 coolly
 coolness
-coon
 coonskin
 coop
 co-op
@@ -7535,9 +7534,6 @@ copra
 copse
 copter
 copula
-copulate
-copulation
-copulative
 copy
 copycat
 copyist
@@ -16228,7 +16224,6 @@ helium
 helix
 he'll
 hello
-helluva
 helm
 helmet
 helmeted
@@ -20988,16 +20983,10 @@ lusciousness
 lush
 lushly
 lushness
-lust
-luster
-lusterless
-lustful
-lustfully
 lustily
 lustiness
 lustrous
 lustrously
-lusty
 lute
 lutenist
 lutetium
@@ -23930,7 +23919,6 @@ nonsense
 nonsensical
 nonsensically
 nonsensitive
-nonsexist
 nonskid
 nonslip
 nonsmoker
@@ -24651,7 +24639,6 @@ operetta
 ophthalmic
 ophthalmologist
 ophthalmology
-opiate
 opine
 opinion
 opinionated
@@ -25253,11 +25240,6 @@ overzealous
 oviduct
 oviparous
 ovoid
-ovular
-ovulate
-ovulation
-ovule
-ovum
 ow
 owe
 owing
@@ -28659,8 +28641,6 @@ racially
 racily
 raciness
 racing
-racism
-racist
 rack
 racket
 racketeer
@@ -31065,10 +31045,6 @@ sass
 sassafras
 sassy
 sat
-satanic
-satanically
-satanism
-satanist
 satchel
 sate
 sateen
@@ -32775,8 +32751,6 @@ skinless
 skinned
 skinniness
 skinny
-skinny-dip
-skinny-dipping
 skintight
 skip
 skipper
@@ -32837,7 +32811,6 @@ slanderer
 slanderous
 slang
 slangy
-slant
 slantwise
 slap
 slapdash
@@ -33666,11 +33639,6 @@ spender
 spending
 spendthrift
 spent
-sperm
-spermatozoa
-spermatozoon
-spermicidal
-spermicide
 spew
 spewer
 sphagnum
@@ -34881,8 +34849,6 @@ suggestion
 suggestive
 suggestively
 suggestiveness
-suicidal
-suicide
 suit
 suitability
 suitable
