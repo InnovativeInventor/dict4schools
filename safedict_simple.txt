@@ -5774,7 +5774,6 @@ china
 chinaware
 chinchilla
 chine
-chink
 chino
 chinos
 chinstrap
@@ -12774,7 +12773,6 @@ fastidiously
 fastidiousness
 fastness
 fast-talk
-fat
 fatal
 fatalism
 fatalist
@@ -12807,7 +12805,6 @@ fatness
 fatten
 fattening
 fattiness
-fatty
 fatuity
 fatuous
 fatuously
@@ -20868,7 +20865,6 @@ lower
 lowercase
 lower-class
 lowermost
-low-fat
 low-grade
 low-key
 low-keyed
@@ -24212,7 +24208,6 @@ obediently
 obeisance
 obeisant
 obelisk
-obese
 obesity
 obey
 obfuscate
@@ -26511,14 +26506,12 @@ piercingly
 piety
 piffle
 piffling
-pig
 pigeon
 pigeonhole
 pigeon-toed
 piggish
 piggishly
 piggishness
-piggy
 piggyback
 pigheaded
 pigheadedly
