@@ -10815,7 +10815,6 @@ dullard
 dullness
 dully
 duly
-dumb
 dumbbell
 dumbfound
 dumbfounded
@@ -17241,7 +17240,6 @@ idiopathic
 idiosyncrasy
 idiosyncratic
 idiosyncratically
-idiot
 idiotic
 idiotically
 idle
@@ -34586,7 +34584,6 @@ stupefy
 stupefying
 stupendous
 stupendously
-stupid
 stupidity
 stupidly
 stupor
