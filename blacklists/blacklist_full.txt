@@ -21,6 +21,7 @@ ass
 asshole
 atheist
 babe
+bare-assed
 bastard
 bastardization
 bastardize
@@ -92,6 +93,9 @@ druggist
 ejaculate
 ejaculation
 ejaculatory
+epipubes
+epipubic
+epipubis
 erect
 erectile
 erection
@@ -247,8 +251,23 @@ preacher
 preachment
 pregnancy
 pregnant
+prepuberal
+prepuberally
+prepubertal
+prepubertally
+prepuberty
+prepubescence
+prepubescent
+prepubic
+prepubis
 prostitute
 prostitution
+puberal
+puberty
+pubes
+pubescent
+pubical
+pubis
 pussy
 pussyfoot
 queer
@@ -326,4 +345,5 @@ whore
 whorehouse
 whoreish
 whorish
+zymurgy
 zymurgy
