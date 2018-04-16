@@ -1,10 +1,12 @@
 adulterant
 adulterate
 adulteration
+adulteration
 adulterer
 adulteress
 adulterous
 adultery
+anal
 anally
 anus
 asexual
@@ -12,6 +14,7 @@ asexuality
 asexually
 ass
 asshole
+bastard
 bastardization
 bastardize
 bastardy
@@ -113,12 +116,14 @@ hellishness
 helluva
 heterosexual
 heterosexuality
+ho
 homophobia
 homophobic
 homosexual
 homosexuality
 hooker
 horny
+hos
 impregnability
 impregnable
 impregnably
@@ -225,6 +230,8 @@ testis
 testosterone
 testy
 tit
+transsexual
+transsexualism
 undersexed
 unmolested
 vagina
@@ -232,6 +239,7 @@ vaginae
 vaginal
 vaginally
 vibrator
+voyeurism
 whore
 whorehouse
 whoreish
