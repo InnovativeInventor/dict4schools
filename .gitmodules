@@ -1,3 +1,6 @@
 [submodule "sources/english-words"]
 	path = sources/english-words
 	url = https://github.com/dwyl/english-words
+[submodule "sources/google-10000-english"]
+	path = sources/google-10000-english
+	url = https://github.com/first20hours/google-10000-english

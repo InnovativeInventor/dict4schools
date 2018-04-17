@@ -14,11 +14,10 @@ Complex has most words in the English language (not including coined words)
 Full is a combination of simple and complex, with repeats taken out.
 
 ## Compiling
-Just run `bash blacklist.sh` in the dict4schools folder. Make sure you have `pv` installed.
+Just run `bash blacklist.sh` in the dict4schools folder (make sure you've got all of the submodules). Make sure you have `pv` installed.
 
-## Contributions
+## Credits & Contributions
 Contributions are always welcome! Just submit a pull request or create a new issue. This is in use in some projects, and any new additions to improve dict4schools are welcome.
 
-## Credits
 Too many friends and strangers have helped in the creation of the blacklist to name.
 [tsbuilderboy](https://github.com/tsbuilderboy) added the vast majority of the blacklist words.
