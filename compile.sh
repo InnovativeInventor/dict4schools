@@ -27,5 +27,5 @@ wait
 mv safedict_full.txt.xz compressed/safedict_full.txt.xz
 mv safedict_complex.txt.xz compressed/safedict_complex.txt.xz
 mv safedict_simple.txt.xz compressed/safedict_simple.txt.xz
-
+cp safedict_full.txt spell/en.utf-8.add
 echo "Done!"
