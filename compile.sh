@@ -9,6 +9,7 @@ cd ../
 echo "Compiling safedict_simple.txt and safedict_complex.txt"
 echo "Progress:"
 pv sources/2of12.txt -i 1 | LC_ALL=C fgrep -i -F -w -v -f $blacklist | tee safedict_simple.txt >> safedict_full_temp.txt &
+pv sources/personal.txt -i 1 | LC_ALL=C fgrep -i -F -w -v -f $blacklist | tee safedict_simple.txt >> safedict_full_temp.txt &
 pv sources/eff_wordlist.txt -i 1 | LC_ALL=C fgrep -i -F -w -v -f $blacklist | tee safedict_simple.txt >> safedict_full_temp.txt &
 pv sources/google-10000-english/20k.txt -i 1 | LC_ALL=C fgrep -i -F -w -v -f $blacklist | tee safedict_simple.txt >> safedict_full_temp.txt &
 pv sources/google-10000-english/google-10000-english.txt -i 1 | LC_ALL=C fgrep -i -F -w -v -f $blacklist | tee safedict_simple.txt >> safedict_full_temp.txt &
