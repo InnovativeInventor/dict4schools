@@ -1,2 +1,7 @@
 TODO
 TODOs
+submodules
+dict4schools
+config
+homebrew
+LaTeX

@@ -9,11 +9,17 @@ cd ../
 echo "Compiling safedict_simple.txt and safedict_complex.txt"
 echo "Progress:"
 pv sources/2of12.txt -i 1 | LC_ALL=C fgrep -i -F -w -v -f $blacklist | tee safedict_simple.txt >> safedict_full_temp.txt &
-pv sources/personal.txt -i 1 | LC_ALL=C fgrep -i -F -w -v -f $blacklist | tee safedict_simple.txt >> safedict_full_temp.txt &
 pv sources/eff_wordlist.txt -i 1 | LC_ALL=C fgrep -i -F -w -v -f $blacklist | tee safedict_simple.txt >> safedict_full_temp.txt &
 pv sources/google-10000-english/20k.txt -i 1 | LC_ALL=C fgrep -i -F -w -v -f $blacklist | tee safedict_simple.txt >> safedict_full_temp.txt &
 pv sources/google-10000-english/google-10000-english.txt -i 1 | LC_ALL=C fgrep -i -F -w -v -f $blacklist | tee safedict_simple.txt >> safedict_full_temp.txt &
 pv sources/english-words/words_alpha.txt -i 1 | LC_ALL=C fgrep -i -F -w -v -f $blacklist | tee safedict_complex.txt  >> safedict_full_temp.txt &
+pv sources/personal.txt -i 1 | LC_ALL=C fgrep -i -F -w -v -f $blacklist | tee safedict_complex.txt  >> safedict_full_temp.txt &
+cat sources/2of12.txt > safedict_uncensored.txt &
+cat sources/eff_wordlist.txt >> safedict_uncensored.txt &
+cat sources/google-10000-english/20k.txt >> safedict_uncensored.txt &
+cat sources/google-10000-english/google-10000-english.txt >> safedict_uncensored.txt &
+cat sources/english-words/words_alpha.txt >> safedict_uncensored.txt &
+cat sources/personal.txt >> safedict_uncensored.txt
 wait
 echo "Compiling safedict_full.txt"
 sort -u safedict_full_temp.txt > safedict_full.txt
@@ -28,4 +34,5 @@ mv safedict_full.txt.xz compressed/safedict_full.txt.xz
 mv safedict_complex.txt.xz compressed/safedict_complex.txt.xz
 mv safedict_simple.txt.xz compressed/safedict_simple.txt.xz
 cp safedict_full.txt spell/en.utf-8.add
+cp safedict_uncensored.txt spell/uncensored/en.utf-8.add
 echo "Done!"

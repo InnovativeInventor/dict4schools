@@ -8,7 +8,7 @@ Medium - Removes all negative slang, derogatory phrases, profanity, and referenc
 
 Full - Removes anything remotely controversial, including all references to religion, and everything included in medium. In addition, any word not suitable for a baby is removed. All potentially offensive words are removed. In addition, any nuisance words (like one-letter entries except for 'a' and 'i') will be removed.
 
-## Safedict strengths
+## dict4schools strengths
 Simple has words that an ordinary person would know.
 Complex has most words in the English language (not including coined words)
 Full is a combination of simple and complex, with repeats taken out.
@@ -17,7 +17,7 @@ Full is a combination of simple and complex, with repeats taken out.
 Just run `bash blacklist.sh` in the dict4schools folder (make sure you've got all of the submodules). Make sure you have `pv` installed.
 
 ## Extras
-For spellcheckers (such as in Vim), use `spell/en.utf-8.add` which contains the full safedict list. An example config is as follows:
+For spellcheckers (such as in Vim), use `spell/en.utf-8.add` which contains the full dict4schools list. An example config is as follows:
 
 ```
 set spelllang=en
