@@ -13,6 +13,7 @@ adulterer
 adulteress
 adulterous
 adultery
+alcohol
 anal
 anally
 anus
@@ -45,13 +46,16 @@ bitchy
 bloody
 blow job
 blowjob
+blunt
 bollock
 bollok
 bondage
 boner
 boob
+boom
 brown-nose
 brown-noser
+bud
 bugger
 bullshit
 bullshitter
@@ -71,16 +75,19 @@ clitoral
 clitorides
 clitoris
 cocaine
+cocaine
 cock
 cockfight
 cocks
 cocksucker
+coke
 condom
 condoms
 coon
 copulate
 copulation
 copulative
+crack
 cracked
 crap
 cum
@@ -103,12 +110,14 @@ dildo
 dildos
 dong
 dongle
+dope
 douche
 drug
 druggie
 druggist
 dyke
 e
+ecstasy
 ejaculate
 ejaculated
 ejaculates
@@ -156,6 +165,7 @@ fudgepacker
 fuehrer
 g
 gangbang
+ganja
 gay
 gayness
 genital
@@ -168,9 +178,11 @@ gonad
 gonadal
 gonads
 gook
+green
 grope
 groper
 h
+hash
 hell
 hellbent
 hellcat
@@ -181,8 +193,10 @@ hellish
 hellishly
 hellishness
 helluva
+hemp
 heterosexual
 heterosexuality
+high
 ho
 hoe
 hoes
@@ -209,6 +223,7 @@ jerk
 jew
 jism
 jizz
+joint
 k
 kike
 knob end
@@ -218,10 +233,12 @@ kunt
 kunts
 l
 labia
+laudanum
 lesbian
 lesbianism
 lmao
 lmfao
+lsd
 lust
 luster
 lusterless
@@ -230,13 +247,17 @@ lustfully
 lusting
 lusty
 m
+mary jane
 masturbate
 masturbation
 masturbatory
+meth
 methamphetamine
+microdot
 molest
 molestation
 molester
+molly
 mothafuck
 mothafucka
 mothafuckas
@@ -284,6 +305,7 @@ ovule
 ovum
 p
 pecker
+peed
 penis
 pimp
 piss
@@ -295,6 +317,7 @@ pornographic
 pornographically
 pornography
 pornos
+pot 
 pregnancy
 pregnant
 prick
@@ -315,13 +338,18 @@ raped
 raper
 rapeseed
 rectum
+reefer
 retard
 retardant
 retardation
 retarded
 retarder
+robotripping
+roche
+rophies
 s
 s hit
+salvia
 satanic
 satanically
 satanism
@@ -354,11 +382,13 @@ slut
 sluts
 sluttish
 slutty
+smack
 smegma
 smut
 snatch
 sodomite
 sodomy
+speed
 spermatozoa
 spermatozoon
 spermicidal
@@ -400,11 +430,14 @@ vulvae
 w
 wang
 wank
+weed
 wetback
 whore
 whorehouse
 whoreish
 whorish
+wtf
+wtfGod damn
 wtfadulterant
 x
 y

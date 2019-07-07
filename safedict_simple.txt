@@ -161,7 +161,6 @@ info
 rights
 public
 books
-high
 school
 through
 m
@@ -730,7 +729,6 @@ provides
 david
 fun
 already
-green
 studies
 close
 common
@@ -2079,7 +2077,6 @@ competition
 creating
 jim
 drugs
-joint
 premium
 providers
 fresh
@@ -3070,7 +3067,6 @@ climate
 reservations
 pin
 playstation
-alcohol
 greek
 instruction
 managing
@@ -4221,7 +4217,6 @@ par
 underground
 diagnosis
 maker
-crack
 principle
 picks
 vacations
@@ -7383,7 +7378,6 @@ trinity
 charleston
 handled
 legends
-boom
 calm
 champions
 floors
@@ -8868,7 +8862,6 @@ ensemble
 insulin
 assured
 biblical
-weed
 conscious
 accent
 mysimon
@@ -9118,7 +9111,6 @@ wound
 belle
 rosa
 conviction
-hash
 omissions
 writings
 hamburg
@@ -10538,7 +10530,6 @@ shawn
 suv
 lacrosse
 bentley
-bud
 slaves
 dentist
 utilizing
@@ -11027,7 +11018,6 @@ efficacy
 freshwater
 topical
 prestige
-cocaine
 accelerated
 pinnacle
 tucker
@@ -11039,7 +11029,6 @@ responsive
 coded
 supra
 omitted
-molly
 proximity
 ku
 alcatel
@@ -11369,7 +11358,6 @@ craigslist
 vibration
 stepped
 vent
-blunt
 protector
 hamas
 aux
@@ -12556,7 +12544,6 @@ reign
 trivial
 deco
 ticker
-coke
 habitats
 clauses
 baron
@@ -15776,7 +15763,6 @@ staging
 unlocked
 scarce
 statistic
-roche
 ropes
 torino
 spiders
@@ -15974,7 +15960,6 @@ vikings
 crate
 kanye
 bootstrap
-wtf
 episcopal
 humane
 scm
@@ -16219,7 +16204,6 @@ ubc
 endeavor
 creole
 mateo
-meth
 trendy
 teas
 settling
@@ -16588,7 +16572,6 @@ pimp
 repeal
 gimp
 uncovered
-hemp
 eileen
 proficient
 pelican
@@ -18870,7 +18853,6 @@ lilies
 aerobic
 articulate
 vgroup
-ecstasy
 sweetheart
 fulfil
 calcutta
@@ -19998,7 +19980,12 @@ plotting
 yan
 succeeding
 bizjournalshire
-lobe
+obalism
+globalist
+globalization
+globalize
+globally
+globe
 globetrotter
 globe-trotting
 globular
@@ -20399,7 +20386,6 @@ greed
 greedily
 greediness
 greedy
-green
 greenback
 greenbelt
 greenery
@@ -21362,7 +21348,6 @@ hemorrhagic
 hemorrhoid
 hemorrhoids
 hemostat
-hemp
 hempen
 hemstitch
 hen
@@ -21517,24 +21502,19 @@ high-end
 higher-up
 highfalutin
 high-five
-high-flown
 high-grade
 highhanded
 highhandedly
 highhandedness
-high-hat
 high-heeled
 highjack
 highland
 highlander
 highlands
-high-level
 highlight
 highlighter
 highly
 high-minded
-high-mindedly
-high-mindedness
 highness
 high-pitched
 high-powered
@@ -21549,8 +21529,6 @@ high-spirited
 high-strung
 hightail
 high-tech
-high-tension
-high-test
 high-toned
 highway
 highwayman
@@ -24432,7 +24410,6 @@ johnnycake
 join
 joiner
 joinery
-joint
 jointed
 jointly
 joist
@@ -25088,7 +25065,6 @@ latticework
 laud
 laudable
 laudably
-laudanum
 laudatory
 laugh
 laughable
@@ -27127,7 +27103,6 @@ microcircuit
 microcomputer
 microcosm
 microcosmic
-microdot
 microeconomics
 microelectronic
 microelectronics
@@ -27656,7 +27631,6 @@ mollusc
 molluscan
 mollusk
 molluskan
-molly
 mollycoddle
 molt
 molten
