@@ -6,7 +6,7 @@ Light - Removes all obscene words and profanity.
 
 Medium - Removes all negative slang, derogatory phrases, profanity, and references to dangerous items (substances, weapons, etc). Will not remove words that might be offensive.
 
-Full - Removes anything remotely controversial, including all references to religion, and everything included in medium. In addition, any word not suitable for a baby is removed. All potentially offensive words are removed. In addition, any nuisance words (like one-letter entries except for 'a' and 'i') will be removed.
+Full - Removes anything remotely controversial, including some references to religion (only those that could be offensive), and everything included in medium. In addition, any word not suitable for explaining to a baby is removed. All potentially offensive words are removed. In addition, any nuisance words (like one-letter entries except for 'a' and 'i') will be removed.
 
 ## dict4schools strengths
 Simple has words that an ordinary person would know.

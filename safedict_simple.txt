@@ -19998,11 +19998,7 @@ plotting
 yan
 succeeding
 bizjournalshire
-t
-globalization
-globalize
-globally
-globe
+lobe
 globetrotter
 globe-trotting
 globular
@@ -24352,7 +24348,6 @@ jenny
 jeopardize
 jeopardy
 jeremiad
-jerk
 jerkily
 jerkin
 jerkiness
@@ -24774,7 +24769,6 @@ knee
 kneecap
 knee-deep
 knee-high
-knee-jerk
 kneel
 knell
 knelt
@@ -24850,7 +24844,6 @@ kvetcher
 la
 lab
 label
-labia
 labial
 labile
 labium
@@ -31750,7 +31743,6 @@ pirouette
 pis
 piscatorial
 pismire
-piss
 pissed
 pistachio
 pistil
