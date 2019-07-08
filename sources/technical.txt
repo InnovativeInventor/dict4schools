@@ -1,0 +1,9 @@
+LaTeX
+git
+dict4schools
+homebrew
+vimwiki
+VimWiki
+vimtex
+zathura
+spellfile
