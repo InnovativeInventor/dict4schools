@@ -7,3 +7,13 @@ VimWiki
 vimtex
 zathura
 spellfile
+tensorflow
+keras
+ml
+nlp
+pytorch
+lua
+python
+golang
+clojure
+coq
