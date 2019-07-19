@@ -17,3 +17,9 @@ python
 golang
 clojure
 coq
+infosec
+devops
+metaclasses
+algo
+WIP
+wffs
