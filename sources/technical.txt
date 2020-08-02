@@ -1,7 +1,12 @@
 LaTeX
+sudo
+openssl
+sudoer
 git
 dict4schools
+omf
 homebrew
+linuxbrew
 vimwiki
 VimWiki
 vimtex

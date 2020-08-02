@@ -1,5 +1,14 @@
 TODO
+tokenizer
+whitelist
+entscheidungsproblem
+blacklist
 TODOs
 submodules
 config
 api
+apis
+API
+APIs
+modifications
+tokenization
