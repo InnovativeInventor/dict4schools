@@ -1,4 +1,6 @@
 LaTeX
+tollendo
+ponens
 sudo
 openssl
 sudoer

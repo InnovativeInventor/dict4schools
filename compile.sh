@@ -17,15 +17,15 @@ pv sources/personal.txt | tee safedict_complex_temp.txt >> safedict_full_temp.tx
 
 cat sources/technical.txt >> safedict_uncensored_temp.txt
 
-cat safedict_simple_temp.txt >> safedict_complex_tmp.txt
-cat safedict_complex_tmp.txt >> safedict_full_tmp.txt
-cat safedict_full_tmp.txt >> safedict_uncensored_tmp.txt
+cat safedict_simple_temp.txt >> safedict_complex_temp.txt
+cat safedict_complex_temp.txt >> safedict_full_temp.txt
+cat safedict_full_temp.txt >> safedict_uncensored_temp.txt
 
 wait
 echo "Compiling safedict_full.txt"
 sort -u safedict_full_temp.txt | python3 remove.py > safedict_full.txt
 sort -u safedict_simple_temp.txt | python3 remove.py > safedict_simple.txt
-sort -u safedict_complex.txt | python3 remove.py > safedict_complex.txt
+sort -u safedict_complex_temp.txt | python3 remove.py > safedict_complex.txt
 sort -u safedict_uncensored_temp.txt | python3 remove.py > safedict_uncensored.txt
 
 rm *_temp.txt

@@ -9,3 +9,4 @@ with open("blacklists/blacklist_full.txt") as f:
 for count, each_input in enumerate(sys.stdin):
     if not each_input.rstrip() in blacklist_words:
         print(each_input.rstrip())
+        blacklist_words.append(each_input.rstrip())
