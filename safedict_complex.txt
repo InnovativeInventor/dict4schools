@@ -1,7 +1,3 @@
-API
-APIs
-TODO
-TODOs
 aaron
 aaronic
 aaronical
@@ -16859,6 +16855,7 @@ aphyllous
 aphylly
 aphyric
 api
+API
 apiaca
 apiaceae
 apiaceous
@@ -16933,6 +16930,7 @@ apiose
 apiosoma
 apiphobia
 apis
+APIs
 apish
 apishamore
 apishly
@@ -323102,6 +323100,8 @@ todelike
 todidae
 todies
 todlowrie
+TODO
+TODOs
 tods
 todus
 tody
